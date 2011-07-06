@@ -1,0 +1,4 @@
+# Ignore merge on all files except for the path listed here
+!/application/layouts/scripts/* merge=keepMine
+!/application/views/scripts/* merge=keepMine
+!/public/* merge=keepMine
